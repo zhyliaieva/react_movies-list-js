@@ -12,7 +12,7 @@ export const MovieCard = ({ movie }) => (
       <div className="media">
         <div className="media-left">
           <figure className="image is-48x48">
-            <imp src="../../public/images/imdb-logo.jpeg" alt="imdb" />
+            <img src="../../public/images/imdb-logo.jpeg" alt="imdb" />
           </figure>
         </div>
 
